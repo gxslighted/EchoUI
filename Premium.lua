@@ -48,4 +48,6 @@ return {
   7805889236, -- dump_khyle
   7215294508, -- script_lang3
   7563089769, -- rizqii989
+  3923616165, -- Projaxonzz000
+  1722743441, -- Dinoboy6108
 }
