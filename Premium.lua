@@ -58,4 +58,6 @@ return {
   4142495462, -- liluzidirt0
   3247681785, -- BinBroPro
   2655058221, -- yaqoob273
+  3256468311, -- Namikze_Naruto8
+  3034004536, -- Ravman_146
 }
